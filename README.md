@@ -1,2 +1,2 @@
 # windows-container-utility
-Windows Container Utility
+Utility for extracting information from containers
